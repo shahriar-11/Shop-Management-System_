@@ -1,5 +1,5 @@
 # Shop-Management-System_
-# Shop Management System (Java Swing + MySQL)
+
 
 ## 📌 Project Overview
 This is a **Shop Management System** built using **Java Swing** for GUI and **MySQL** for database management.
